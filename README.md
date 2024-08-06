@@ -3,7 +3,7 @@
 * 프로젝트 우수상 수상
 
 ### Curriculum
-2207-2208 Python Basic
-2208-2208 Bigdata Analysis
-2208-2209 AI
-
+220726-220729 Python Basic  
+220801-220817 Bigdata Analysis  
+220818-220826 Bigdata Analysis Team Project  
+220829-220923 AI & Team Project  
