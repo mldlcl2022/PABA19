@@ -1,7 +1,8 @@
 # [POSCO AI Bigdata Academy](https://youth.posco.com/posco/edu/index.php?mod=academy&pag=aca01#khwhat)
-* 포스코 청년 AI Bigdata 아카데미 19기 수료
-![PABA 수료증](https://github.com/user-attachments/assets/43ae3ae1-7257-4e48-ab1a-a055f6a9c4fc)
-* 프로젝트 우수상 수상
+* 포스코 청년 AI Bigdata 아카데미 19기 수료  
+* 프로젝트 우수상 수상  
+
+![PABA 수료증](https://github.com/user-attachments/assets/43ae3ae1-7257-4e48-ab1a-a055f6a9c4fc){:width="250" height="100"}
 
 ### Curriculum
 220726-220729 Python Basic  
