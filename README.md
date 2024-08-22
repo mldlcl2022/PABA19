@@ -11,4 +11,4 @@
 220829-220923 AI & Team Project  
 
 ### Project
-##### 1. Bigdata Analysis project : 
+### 1. Bigdata Analysis project : 
