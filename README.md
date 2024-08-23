@@ -12,4 +12,4 @@
 
 ### Team Project
 1. Bigdata Analysis project : 간편식 제조 공정 최적화 및 수요 예측을 통한 매출 증대
-<img src="https://github.com/user-attachments/assets/558d38be-9496-4ca4-9347-a03134ca153d" width="550" height="250"/>
+<img src="https://github.com/user-attachments/assets/558d38be-9496-4ca4-9347-a03134ca153d" width="450" height="350"/>
