@@ -10,5 +10,6 @@
 220818-220826 Bigdata Analysis Team Project  
 220829-220923 AI & Team Project  
 
-### Project
-1. Bigdata Analysis project : 
+### Team Project
+1. Bigdata Analysis project : 간편식 제조 공정 최적화 및 수요 예측을 통한 매출 증대
+
