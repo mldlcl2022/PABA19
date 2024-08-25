@@ -13,6 +13,6 @@
 ### Team Project
 1. Bigdata Analysis project : 간편식 제조 공정 최적화 및 수요 예측을 통한 매출 증대<br>
 <br><img src="https://github.com/user-attachments/assets/f24c40d4-0e1d-4870-8d16-0556c288deb2" width="600" height="350"/><br>
-&nbsp; * 역할
+<br>* 역할
 2. AI project : 4단계 자율주행을 위한 비보호 좌회전<br>
 <br><img src="https://github.com/user-attachments/assets/09181089-ccdb-4cd9-911f-a2ae47a09121" width="600" height="350"/><br>
